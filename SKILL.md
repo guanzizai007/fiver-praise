@@ -1,9 +1,8 @@
 ﻿---
 name: fiver-praise
-description: 基于原创 FIVER 五步沟通法（Fact讲事实→Impression谈感受→Virtues赞美德→Effect传影响→Routine养习惯），生成结构化育儿夸赞话术。
-
+description: 
+基于原创 FIVER 五步沟通法（Fact讲事实→Impression谈感受→Virtues赞美德→Effect传影响→Routine养习惯），生成结构化育儿夸赞话术。
 当用户说"夸夸娃"、"FIVER"、"用五步法夸孩子"、"写一段夸娃的话"、"FIVER沟通法"或描述孩子的一个具体行为/进步场景时触发。
-
 不适用于一般育儿知识问答、批评教育话术或非亲子场景的沟通话术生成。
 ---
 # 🌟 FIVER 五步夸赞法
